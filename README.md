@@ -318,7 +318,7 @@ This project demonstrates:
 **Student:** Anurag  
 **UID:** 23BAI70225  
 **Section:** 23AML-6B  
-**Email:** [Your Email]  
+**Email:** 23BAI70225@cuchd.in  
 
 ---
 
@@ -351,3 +351,4 @@ I hereby declare that this project is my original work, completed as part of Exp
 **End of Submission Document**
 
 🚀 **Ready for Review & Viva!** 🚀
+
